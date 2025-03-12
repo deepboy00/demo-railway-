@@ -1,0 +1,4 @@
+com\ApiMySQL\AppDisco\controller\UsuarioController.class
+com\ApiMySQL\AppDisco\AppDiscoApplication.class
+com\ApiMySQL\AppDisco\Model\Usuario.class
+com\ApiMySQL\AppDisco\repository\UsuarioRepository.class
